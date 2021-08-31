@@ -1,0 +1,7 @@
+cd c:
+
+cd Users/zenke/Desktop/personal-blog
+
+npm i
+
+gulp
